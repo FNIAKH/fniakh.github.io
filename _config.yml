@@ -10,7 +10,9 @@ locale                   : "France"
 title                    : "Fallou NIAKH / Personal website"
 title_separator          : "-"
 name                     : &name "Fallou Niakh"
-description              : &description "personal description"
+description              : &description "I currently enrolled as a third-year student at ENSAE Paris and I specialize in Actuarial. In addition, I am simultaneously in Master 2 Statistics, Finance, Actuarial Science at the Institut Polytechnique de Paris. Previously, I obtained my degree of Statistical Work Engineer at ENSAE Dakar. In terms of professional experience, I have completed many internships in many fields of Statistics and Economics. Recently, I have developed a financial and economic model for the valorisation of solutions IoT (Internet of Things) at Insight Signals. Furthermore, i worked in the field of epidemiological modeling during my final internship for the degree of Statistical Works Engineer. In particular, this internship was carried out within the framework of the European PaleBlu project monitored by the Institut Sénégalais de Recherches Agricoles (ISRA) and the Centre International pour la Recherche Agronomique pour le Développement (CIRAD). I also worked in the field of web design and development of data collection applications.
+
+"
 url                      : https://fniakh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fniakh/fniakh.github.io"
