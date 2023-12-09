@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Fallou Niakh"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Fallou-Niakh"
   uri              :
   bitbucket        :
   codepen          :
