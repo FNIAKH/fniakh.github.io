@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Actuarial mathematics, CREST ENSAE Paris, 2022-2024 (expected)
+* Engineer in Actuarial science, ENSAE Paris, 2019-2021
+* Master in Statistics, Finance, and Actuarial Science, Institut Polytechnique de Paris, 2020-2021
+* Engineer in Statistics, ENSAE Dakar, 2015-2019
 
 Work experience
 ======
