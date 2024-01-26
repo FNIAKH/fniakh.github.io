@@ -9,6 +9,3 @@ paperurl: 'https://www.mdpi.com/2076-2607/8/11/1766'
 citation: 'Gahn, M.C.B.; Niakh, F.; Ciss, M.; Seck, I.; Lo, M.M.; Fall, A.G.; Biteye, B.; Fall, M.; Ndiaye, M.; Ba, A.; et al. Assessing the Risk of Occurrence of Bluetongue in Senegal. Microorganisms 2020, 8, 1766. https://doi.org/10.3390/microorganisms8111766'
 ---
 
-[Download paper here](https://www.mdpi.com/2076-2607/8/11/1766)
-
-Recommended citation: Gahn, M.C.B.; Niakh, F.; Ciss, M.; Seck, I.; Lo, M.M.; Fall, A.G.; Biteye, B.; Fall, M.; Ndiaye, M.; Ba, A.; et al. Assessing the Risk of Occurrence of Bluetongue in Senegal. Microorganisms 2020, 8, 1766. https://doi.org/10.3390/microorganisms8111766
