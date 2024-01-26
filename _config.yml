@@ -11,8 +11,6 @@ title                    : "Fallou NIAKH / Personal website"
 title_separator          : "-"
 name                     : &name "Fallou Niakh"
 description              : &description "I am a Phd candidate in applied mathematics at Crest ENSAE Paris. My research focuses on risk sharing and its differents applications in insurance."
-
-"
 url                      : https://fniakh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fniakh/fniakh.github.io"
