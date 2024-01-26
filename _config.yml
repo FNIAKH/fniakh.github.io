@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "France"
-title                    : "Fallou NIAKH / Personal website"
+title                    : "Fallou NIAKH /blog"
 title_separator          : "-"
 name                     : &name "Fallou Niakh"
 description              : &description "Ph.D. candidate in actuarial mathematics
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Fallou Niakh"
   avatar           : "profile.png"
-  bio              : "I am a Ph.D. candidate in applied mathematics at Crest ENSAE Paris. My research focuses on risk sharing and its different applications in insurance."
+  bio              : "Ph.D. candidate in actuarial mathematics at Crest ENSAE Paris"
   location         : "France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
