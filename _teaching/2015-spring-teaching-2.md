@@ -8,12 +8,3 @@ date: 2022-01-01
 location: "Dakar, Senegal"
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
