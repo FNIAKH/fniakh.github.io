@@ -4,7 +4,7 @@ collection: teaching
 type: "Monitorat"
 permalink: /teaching/2014-spring-teaching-1
 venue: "ENSAE Paris"
-date: 2022-01-01
+date: 2022-27-01
 location: "Palaiseau, France"
 ---
 
