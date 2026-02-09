@@ -4,8 +4,8 @@ optimal risk-sharing rules"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2023-07-09
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2303.05421.pdf'
-citation: '	arXiv:2303.05421 [q-fin.RM]'
+date: 2024-11-11
+venue: 'European Actuarial Journal'
+paperurl: '[https://arxiv.org/pdf/2303.05421.pdf](https://doi.org/10.1007/s13385-024-00405-4)'
+citation: 'Niakh, F. A fixed point approach for computing actuarially fair Pareto optimal risk-sharing rules. Eur. Actuar. J. 15, 297–334 (2025). https://doi.org/10.1007/s13385-024-00405-4'
 ---
