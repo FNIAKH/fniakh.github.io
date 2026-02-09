@@ -10,7 +10,7 @@ locale                   : "France"
 title                    : "Fallou NIAKH /blog"
 title_separator          : "-"
 name                     : &name "Fallou Niakh"
-description              : &description "Ph.D. candidate in actuarial mathematics
+description              : &description "Ph.D. in actuarial mathematics
 
 "
 url                      : https://fniakh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -84,11 +84,11 @@ analytics:
 author:
   name             : "Fallou Niakh"
   avatar           : "photo1.jpg"
-  bio              : "Ph.D. candidate in actuarial mathematics"
+  bio              : "Ph.D. in actuarial mathematics"
   location         : "France"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=fallou+niakh"
-  googlescholar    : 
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=BbmJDAMAAAAJ&hl=fr"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Fallou-Niakh"
   uri              :
