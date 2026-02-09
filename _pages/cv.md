@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Actuarial mathematics, CREST ENSAE Paris, 2022-2024 (expected)
+* Ph.D. in Actuarial mathematics, CREST ENSAE Paris, 2022-2025
 * Engineer in Actuarial science, ENSAE Paris, 2019-2021
 * Master in Statistics, Finance, and Actuarial Science, Institut Polytechnique de Paris, 2020-2021
 * Engineer in Statistics, ENSAE Dakar, 2015-2019
