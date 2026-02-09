@@ -2,7 +2,7 @@
 title: "A fixed point approach for computing actuarially fair Pareto
 optimal risk-sharing rules"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-11-11-paper-title-number-2
 excerpt: ''
 date: 2024-11-11
 venue: 'European Actuarial Journal'
