@@ -12,4 +12,6 @@ Welcome to my blog. The goal of this website is to share my recent research and 
 
 About me
 ======
-I am a Ph.D. candidate in actuarial mathematics in the Center of Research in Economics and Statistics (CREST) at ENSAE Paris under the supervision of Professors Caroline Hillairet and Christian Robert. My research focuses on risk sharing and Machine Learning with applications in actuarial science. Born in 1995, I come from Senegal.
+Holding a PhD in applied mathematics with a focus on actuarial science, I conduct research on risk modeling and risk management, with particular emphasis on climate risk, risk pooling, and parametric insurance. My work relies on tools from probability theory, statistics, optimization, and numerical methods, at the interface of actuarial science, risk economics, and data science.
+
+I am currently the coordinator of actuarial science and finance courses at ENSAE Paris, where I oversee the academic management of a portfolio of courses, coordinate external lecturers, and supervise projects, internships, and master’s theses. I also have extensive experience teaching mathematics, statistics, and actuarial science.
